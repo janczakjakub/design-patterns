@@ -1,0 +1,25 @@
+{
+    "name": "design-patterns",
+    "version": "1.0.0",
+    "description": "design patterns",
+    "main": "release/src/index.js",
+    "private": true,
+    "engines": {
+        "node": ">=16.15.1",
+        "npm": ">=8.11.0"
+    },
+    "scripts": {
+        "prepare": "gulp prepare",
+        "compile": "node_modules/.bin/tsc",
+        "build": "node_modules/gulp/bin/gulp.js build",
+        "abstractFactoryExample": "node release/examples/abstractFactory.js"
+    },
+    "author": "Jakub Janczak",
+    "license": "ISC",
+    "dependencies": {
+        "@types/node": "18.0.0",
+        "gulp": "4.0.2",
+        "gulp-cli": "2.3.0",
+        "typescript": "4.7.4"
+    }
+}
