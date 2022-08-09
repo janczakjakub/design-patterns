@@ -12,7 +12,8 @@
         "prepare": "gulp prepare",
         "compile": "node_modules/.bin/tsc",
         "build": "node_modules/gulp/bin/gulp.js build",
-        "abstractFactoryExample": "node release/examples/abstractFactory.js"
+        "abstractFactoryExample": "node release/examples/abstractFactory.js",
+        "builderExample": "node release/examples/builder.js"
     },
     "author": "Jakub Janczak",
     "license": "ISC",
