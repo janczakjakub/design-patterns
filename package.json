@@ -13,7 +13,8 @@
         "compile": "node_modules/.bin/tsc",
         "build": "node_modules/gulp/bin/gulp.js build",
         "abstractFactoryExample": "node release/examples/abstractFactory.js",
-        "builderExample": "node release/examples/builder.js"
+        "builderExample": "node release/examples/builder.js",
+        "factoryMethodExample": "node release/examples/factoryMethod.js"
     },
     "author": "Jakub Janczak",
     "license": "ISC",
