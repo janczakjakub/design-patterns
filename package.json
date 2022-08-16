@@ -12,9 +12,10 @@
         "prepare": "gulp prepare",
         "compile": "node_modules/.bin/tsc",
         "build": "node_modules/gulp/bin/gulp.js build",
-        "abstractFactoryExample": "node release/examples/abstractFactory.js",
-        "builderExample": "node release/examples/builder.js",
-        "factoryMethodExample": "node release/examples/factoryMethod.js"
+        "abstractFactory": "node release/examples/abstractFactory.js",
+        "builder": "node release/examples/builder.js",
+        "factoryMethod": "node release/examples/factoryMethod.js",
+        "singleton": "node release/examples/singleton.js"
     },
     "author": "Jakub Janczak",
     "license": "ISC",
