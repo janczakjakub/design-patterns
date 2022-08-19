@@ -3,5 +3,6 @@ import * as builder from "./builder/builder";
 import * as factoryMethod from "./factoryMethod/factoryMethod";
 import * as singleton from "./singleton/singleton";
 import * as prototype from "./prototype/prototype";
+import * as adapter from "./adapter/adapter";
 
-export { abstractFactory, builder, factoryMethod, singleton, prototype };
+export { abstractFactory, builder, factoryMethod, singleton, prototype, adapter };
