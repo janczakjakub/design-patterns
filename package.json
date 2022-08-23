@@ -17,7 +17,8 @@
         "factoryMethod": "node release/examples/factoryMethod.js",
         "singleton": "node release/examples/singleton.js",
         "prototype": "node release/examples/prototype.js",
-        "adapter": "node release/examples/adapter.js"
+        "adapter": "node release/examples/adapter.js",
+        "bridge": "node release/examples/bridge.js"
     },
     "author": "Jakub Janczak",
     "license": "ISC",
