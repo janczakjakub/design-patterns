@@ -18,7 +18,8 @@
         "singleton": "node release/examples/singleton.js",
         "prototype": "node release/examples/prototype.js",
         "adapter": "node release/examples/adapter.js",
-        "bridge": "node release/examples/bridge.js"
+        "bridge": "node release/examples/bridge.js",
+        "composite": "node release/examples/composite.js"
     },
     "author": "Jakub Janczak",
     "license": "ISC",

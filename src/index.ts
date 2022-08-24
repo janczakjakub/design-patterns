@@ -5,5 +5,15 @@ import * as singleton from "./singleton/singleton";
 import * as prototype from "./prototype/prototype";
 import * as adapter from "./adapter/adapter";
 import * as bridge from "./bridge/bridge";
+import * as composite from "./composite/composite";
 
-export { abstractFactory, builder, factoryMethod, singleton, prototype, adapter, bridge };
+export {
+    abstractFactory,
+    builder,
+    factoryMethod,
+    singleton,
+    prototype,
+    adapter,
+    bridge,
+    composite,
+};
