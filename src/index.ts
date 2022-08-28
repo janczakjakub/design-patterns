@@ -7,6 +7,7 @@ import * as adapter from "./adapter/adapter";
 import * as bridge from "./bridge/bridge";
 import * as composite from "./composite/composite";
 import * as decorator from "./decorator/decorator";
+import * as facade from "./facade/facade";
 
 export {
     abstractFactory,
@@ -18,4 +19,5 @@ export {
     bridge,
     composite,
     decorator,
+    facade,
 };

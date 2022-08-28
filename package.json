@@ -20,7 +20,8 @@
         "adapter": "node release/examples/adapter.js",
         "bridge": "node release/examples/bridge.js",
         "composite": "node release/examples/composite.js",
-        "decorator": "node release/examples/decorator.js"
+        "decorator": "node release/examples/decorator.js",
+        "facade": "node release/examples/facade.js"
     },
     "author": "Jakub Janczak",
     "license": "ISC",
