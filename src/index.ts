@@ -9,6 +9,7 @@ import * as composite from "./composite/composite";
 import * as decorator from "./decorator/decorator";
 import * as facade from "./facade/facade";
 import * as command from "./command/comand";
+import * as strategy from "./strategy/strategy";
 
 export {
     abstractFactory,
@@ -22,4 +23,5 @@ export {
     decorator,
     facade,
     command,
+    strategy,
 };
