@@ -23,7 +23,8 @@
         "decorator": "node release/examples/decorator.js",
         "facade": "node release/examples/facade.js",
         "command": "node release/examples/command.js",
-        "strategy": "node release/examples/strategy.js"
+        "strategy": "node release/examples/strategy.js",
+        "observer": "node release/examples/observer.js"
     },
     "author": "Jakub Janczak",
     "license": "ISC",

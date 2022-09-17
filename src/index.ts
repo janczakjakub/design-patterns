@@ -10,6 +10,7 @@ import * as decorator from "./decorator/decorator";
 import * as facade from "./facade/facade";
 import * as command from "./command/comand";
 import * as strategy from "./strategy/strategy";
+import * as observer from "./observer/observer";
 
 export {
     abstractFactory,
@@ -24,4 +25,5 @@ export {
     facade,
     command,
     strategy,
+    observer,
 };
