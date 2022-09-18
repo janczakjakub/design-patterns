@@ -11,6 +11,7 @@ import * as facade from "./facade/facade";
 import * as command from "./command/comand";
 import * as strategy from "./strategy/strategy";
 import * as observer from "./observer/observer";
+import * as templateMethod from "./templateMethod/templateMethod";
 
 export {
     abstractFactory,
@@ -26,4 +27,5 @@ export {
     command,
     strategy,
     observer,
+    templateMethod,
 };

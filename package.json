@@ -24,7 +24,8 @@
         "facade": "node release/examples/facade.js",
         "command": "node release/examples/command.js",
         "strategy": "node release/examples/strategy.js",
-        "observer": "node release/examples/observer.js"
+        "observer": "node release/examples/observer.js",
+        "templateMethod": "node release/examples/templateMethod.js"
     },
     "author": "Jakub Janczak",
     "license": "ISC",
