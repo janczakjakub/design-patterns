@@ -25,7 +25,8 @@
         "command": "node release/examples/command.js",
         "strategy": "node release/examples/strategy.js",
         "observer": "node release/examples/observer.js",
-        "templateMethod": "node release/examples/templateMethod.js"
+        "templateMethod": "node release/examples/templateMethod.js",
+        "iterator": "node release/examples/iterator.js"
     },
     "author": "Jakub Janczak",
     "license": "ISC",

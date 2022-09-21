@@ -12,6 +12,7 @@ import * as command from "./command/comand";
 import * as strategy from "./strategy/strategy";
 import * as observer from "./observer/observer";
 import * as templateMethod from "./templateMethod/templateMethod";
+import * as iterator from "./iterator/iterator";
 
 export {
     abstractFactory,
@@ -28,4 +29,5 @@ export {
     strategy,
     observer,
     templateMethod,
+    iterator,
 };
