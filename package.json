@@ -26,7 +26,8 @@
         "strategy": "node release/examples/strategy.js",
         "observer": "node release/examples/observer.js",
         "templateMethod": "node release/examples/templateMethod.js",
-        "iterator": "node release/examples/iterator.js"
+        "iterator": "node release/examples/iterator.js",
+        "proxy": "node release/examples/proxy.js"
     },
     "author": "Jakub Janczak",
     "license": "ISC",
