@@ -14,6 +14,7 @@ import * as observer from "./observer/observer";
 import * as templateMethod from "./templateMethod/templateMethod";
 import * as iterator from "./iterator/iterator";
 import * as proxy from "./proxy/proxy";
+import * as flyweight from "./flyweight/flyweight";
 
 export {
     abstractFactory,
@@ -32,4 +33,5 @@ export {
     templateMethod,
     iterator,
     proxy,
+    flyweight,
 };

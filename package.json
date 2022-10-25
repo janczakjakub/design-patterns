@@ -27,7 +27,8 @@
         "observer": "node release/examples/observer.js",
         "templateMethod": "node release/examples/templateMethod.js",
         "iterator": "node release/examples/iterator.js",
-        "proxy": "node release/examples/proxy.js"
+        "proxy": "node release/examples/proxy.js",
+        "flyweight": "node release/examples/flyweight.js"
     },
     "author": "Jakub Janczak",
     "license": "ISC",
