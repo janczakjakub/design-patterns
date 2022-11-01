@@ -15,6 +15,7 @@ import * as templateMethod from "./templateMethod/templateMethod";
 import * as iterator from "./iterator/iterator";
 import * as proxy from "./proxy/proxy";
 import * as flyweight from "./flyweight/flyweight";
+import * as chainOfResponsibility from "./chainOfResponsibility/chainOfResponsibility";
 
 export {
     abstractFactory,
@@ -34,4 +35,5 @@ export {
     iterator,
     proxy,
     flyweight,
+    chainOfResponsibility,
 };
