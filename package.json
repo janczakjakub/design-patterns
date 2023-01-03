@@ -29,7 +29,8 @@
         "iterator": "node release/examples/iterator.js",
         "proxy": "node release/examples/proxy.js",
         "flyweight": "node release/examples/flyweight.js",
-        "chainOfResponsibility": "node release/examples/chainOfResponsibility.js"
+        "chainOfResponsibility": "node release/examples/chainOfResponsibility.js",
+        "interpreter": "node release/examples/interpreter.js"
     },
     "author": "Jakub Janczak",
     "license": "ISC",

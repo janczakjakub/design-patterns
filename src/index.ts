@@ -16,6 +16,7 @@ import * as iterator from "./iterator/iterator";
 import * as proxy from "./proxy/proxy";
 import * as flyweight from "./flyweight/flyweight";
 import * as chainOfResponsibility from "./chainOfResponsibility/chainOfResponsibility";
+import * as interpreter from "./interpreter/interpreter";
 
 export {
     abstractFactory,
@@ -36,4 +37,5 @@ export {
     proxy,
     flyweight,
     chainOfResponsibility,
+    interpreter,
 };
