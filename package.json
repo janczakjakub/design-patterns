@@ -30,7 +30,8 @@
         "proxy": "node release/examples/proxy.js",
         "flyweight": "node release/examples/flyweight.js",
         "chainOfResponsibility": "node release/examples/chainOfResponsibility.js",
-        "interpreter": "node release/examples/interpreter.js"
+        "interpreter": "node release/examples/interpreter.js",
+        "mediator": "node release/examples/mediator.js"
     },
     "author": "Jakub Janczak",
     "license": "ISC",
