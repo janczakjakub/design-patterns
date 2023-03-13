@@ -31,7 +31,8 @@
         "flyweight": "node release/examples/flyweight.js",
         "chainOfResponsibility": "node release/examples/chainOfResponsibility.js",
         "interpreter": "node release/examples/interpreter.js",
-        "mediator": "node release/examples/mediator.js"
+        "mediator": "node release/examples/mediator.js",
+        "memento": "node release/examples/memento.js"
     },
     "author": "Jakub Janczak",
     "license": "ISC",

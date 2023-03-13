@@ -18,6 +18,7 @@ import * as flyweight from "./flyweight/flyweight";
 import * as chainOfResponsibility from "./chainOfResponsibility/chainOfResponsibility";
 import * as interpreter from "./interpreter/interpreter";
 import * as mediator from "./mediator/mediator";
+import * as memento from "./memento/memento";
 
 export {
     abstractFactory,
@@ -40,4 +41,5 @@ export {
     chainOfResponsibility,
     interpreter,
     mediator,
+    memento,
 };

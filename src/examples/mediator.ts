@@ -1,5 +1,4 @@
 import * as lib from "../index";
-import JsonInterpreter from "../interpreter/JsonInterpreter";
 
 const chatRoom = new lib.mediator.ChatRoom();
 
