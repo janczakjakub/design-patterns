@@ -19,6 +19,7 @@ import * as chainOfResponsibility from "./chainOfResponsibility/chainOfResponsib
 import * as interpreter from "./interpreter/interpreter";
 import * as mediator from "./mediator/mediator";
 import * as memento from "./memento/memento";
+import * as state from "./state/state";
 
 export {
     abstractFactory,
@@ -42,4 +43,5 @@ export {
     interpreter,
     mediator,
     memento,
+    state,
 };
